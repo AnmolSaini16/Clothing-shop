@@ -12,6 +12,8 @@ const config = {
     measurementId: "G-CN46PQGECE"
 };
 
+
+
 export const createUserProfileDocument = async (userAuth, additionalData) => {
     if (!userAuth) return;
     
