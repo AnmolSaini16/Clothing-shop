@@ -1,5 +1,5 @@
 # Clothig shop
 
-## Made using React (Redux, Styled components, Router) integrated payments with Stripe
-## Clike here to visit -> [Link](https://clothing-shop01.herokuapp.com)
+## Full stack ecommerce website. Made using React (Redux, Router, Firebase, Styled components) integrated payments with Stripe and authentication using Firebase
+### Clike here to visit -> [Link](https://clothing-shop01.herokuapp.com)
 
